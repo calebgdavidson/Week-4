@@ -1,0 +1,15 @@
+body {
+    background-color: #282828;
+    color: #00FF66;
+    font-family: "sono";
+    text-align: center;
+}
+
+a {
+    color: #00FF66;
+    text-decoration: none;
+}
+
+.hidden {
+    display: none;
+}
